@@ -2,9 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/6ab90148-eea2-45bc-8724-23fd989ec4a9)
 
-
-Script for conducting DOS-attacks on Bluetooth devices for pentest purposes.
-
 ##   Install the tools
 For a DoS attack over Bluetooth, you can use tools like:
 
